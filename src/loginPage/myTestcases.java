@@ -32,7 +32,7 @@ public void Signup() {
 	WebElement firstName = driver.findElement(By.xpath("//*[@id=\"AccountFrm_firstname\"]"));
 	
 	firstName.sendKeys("hatem");
-	
+	//hi
 	
 }
 	
